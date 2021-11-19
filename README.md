@@ -1,2 +1,3 @@
 # dumbways
-dumbways repo
+dumbways bootcamp repo
+they are teaching basic stuff, i most of them so...
